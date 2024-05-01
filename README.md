@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guilherme Zago Canesin
-- 👀 I’m interested in front-end development and IoT prototyping
-- 🌱 I’m currently learning React Native and Flutter
+- 👀 Mid Level Developer focused in front-end development
+- 🌱 I currently develop web applications using Angular and Spring
 
 - 📫 How to reach me https://www.linkedin.com/in/guilherme-zago-canesin/
 
